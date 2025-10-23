@@ -17,20 +17,20 @@ npx tsc --version
 
 ### Instalación de dependencias
 
-Si el proyecto ya tiene un archivo `package.json`:
+Si no se cuenta con typescrip  `TypeScript`, instalarlo ojo se debe contar con node instalado antes:
+```bash
+npm install -g typescript
+```
+instalar dependencias del  `package.json`:
 ```bash
 npm install
 ```
 
-Si no tiene `package.json`, crear uno:
-```bash
-npm init -y
-npm install -g typescript
-```
+
 
 ### Configuración de TypeScript
 
-Crear archivo `tsconfig.json`:
+se deve contar con la siguiente configuracio en el archivo `tsconfig.json`:
 ```json
 {
   "compilerOptions": {
