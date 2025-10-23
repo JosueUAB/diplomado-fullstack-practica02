@@ -1,5 +1,6 @@
 # Práctica 02 - Consumo de API REST con TypeScript (JSONPlaceholder)
 
+## Estudiante:  Josue Israel Arista Huanca
 ## 1. Instrucciones para ejecutar el proyecto
 
 ### Requisitos
